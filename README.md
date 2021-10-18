@@ -1,2 +1,2 @@
 # Github-Walkthrough
-echo "Hello World...Not."
+Hello World...Not.
